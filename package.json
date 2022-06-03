@@ -13,6 +13,7 @@
   },
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@angular/animations": "13.3.11",
     "@angular/common": "13.3.11",
     "@angular/compiler": "13.3.11",
@@ -24,6 +25,19 @@
     "@angular/router": "13.3.11",
     "admin-lte": "3.2.0",
     "core-js": "3.22.8",
+=======
+    "@angular/animations": "6.0.0",
+    "@angular/common": "6.0.0",
+    "@angular/compiler": "6.0.0",
+    "@angular/core": "11.0.5",
+    "@angular/forms": "6.0.0",
+    "@angular/platform-browser": "6.0.0",
+    "@angular/platform-browser-dynamic": "6.0.0",
+    "@angular/platform-server": "6.0.0",
+    "@angular/router": "6.0.0",
+    "admin-lte": "2.3.11",
+    "core-js": "2.5.4",
+>>>>>>> master
     "font-awesome": "4.7.0",
     "intl": "1.2.5",
     "jquery": "3.6.0",
